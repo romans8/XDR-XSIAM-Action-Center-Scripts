@@ -1,3 +1,15 @@
+#!/usr/bin/env python3
+
+# Script: return_sha256_filehash.py
+# Purpose: To retrieve a SHA256 filehash 
+# Date: April 17, 2025
+# Description: This script returns a SHA256 filehash using action center
+# Timeout: 600
+# Input: Run by entry point: run
+# Output: Auto Detect or String
+# Environment: Bare Metal, VM, AWS, GCP, Azure
+# OS: Windows, mscOS, Linux
+
 import os
 import sys
 import hashlib
