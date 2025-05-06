@@ -3,7 +3,7 @@
 # Script: avml_memory_capture.py
 # Purpose: Acquire volatile memory using AVML for Palo XSIAM Action Center
 # Date: April 03, 2025
-# Description: This script uses AVML to get a memory dump and system.map from a Linux host to use with Volatility. The script has debug level logging of actions taken for forensic timestamp purposes to preserve chain of custody.
+# Description: This script uses AVML to get a memory dump and system.map from a Linux host to use with Volatility. The script has debug level logging of actions taken for forensic timestamp purposes to preserve chain of custody. This script logs locally.
 # Timeout: 1200
 # Input: Run by entry point: Main
 # Output: Auto Detect or String
