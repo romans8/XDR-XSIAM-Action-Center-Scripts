@@ -168,5 +168,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Maintained by [Your Name]*  
+*Maintained by [Romans 6]*  
 *Last updated: May 2025*
