@@ -172,4 +172,4 @@ Volatility Foundation for forensic analysis tools.
 Palo XSIAM Action Center for inspiring this project.
 
 
-Maintained by [Your Name]Last updated: May 2025
+Maintained by [Romans 6]Last updated: May 2025
